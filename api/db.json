@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is my amazing stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "This is my other stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the from page. Added refactoring!!!",
+      "id": 4
+    }
+  ]
+}
